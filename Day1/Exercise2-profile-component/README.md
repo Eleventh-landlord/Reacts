@@ -20,3 +20,5 @@ Learning React to build amazing web apps in Nigeria.
 ```
 
 **Challenge:** Create 2 different profiles in `App.jsx`
+
+![Image](https://github.com/user-attachments/assets/1d02ad9a-8e40-4ea7-8d4b-0eea4d62c301)
