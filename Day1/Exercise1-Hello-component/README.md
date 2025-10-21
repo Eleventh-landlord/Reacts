@@ -16,3 +16,5 @@ Chidi Okafor
 Lagos, Nigeria
 Welcome to my React journey!
 ```
+
+![Image](https://github.com/user-attachments/assets/0c0eee51-381b-42b0-a596-968a532e9b5f)
