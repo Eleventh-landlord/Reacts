@@ -20,3 +20,6 @@ This is my first multi-component app.
 ```
 
 **Challenge:** Add a navigation menu to the Header with 3 links
+
+
+![Image](https://github.com/user-attachments/assets/b61d6eae-d41b-42b0-b464-fe5fa597f3d2)
